@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Safaa El"
+  name             : "Safaa Al-Ali"
   avatar           : #"/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD in Applied mathematics"
+  bio              : "Ph.D. in Applied mathematics"
   location         : "Centre Inria d’Université Côte d’Azur, \n Epione Team, Bâtiment Fermat - F205, 2004 Rte des Lucioles, 06902, Valbonne, France"
   email            : "test"
   links:
@@ -117,7 +117,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Researchgate"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/"
     - label: "Google scholar"
       icon: "fab fa-fw fa-facebook-square"
