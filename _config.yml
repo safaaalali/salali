@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Safaa Al-Ali"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/Cropped-Pro-Img.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. in Applied mathematics"
   location         : "Centre Inria d’Université Côte d’Azur, \n Epione Team, Bâtiment Fermat - F205, 2004 Rte des Lucioles, 06902, Valbonne, France"
   email            : "test"
